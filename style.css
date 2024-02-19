@@ -1,0 +1,14 @@
+body{
+    color:darkblue;
+    float:left;
+    background:local;
+    background-color: lightblue;
+}
+.article{
+   font-size:50px;
+   color:green;
+}
+
+img{
+    width:75%;
+}
